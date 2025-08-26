@@ -4,7 +4,7 @@ Delta Roblox Scripts PC is your go-to repository for a wide range of powerful an
 
 <div style="text-align: center">
   <a href="https://delta-roblox-scripts-pc-free.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Delta-Roblox-Scripts-blueviolet">
+    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Roblox-Scripts-blueviolet">
   </a>
 </div>
 
