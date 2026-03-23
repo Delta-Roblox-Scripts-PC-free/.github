@@ -2,11 +2,15 @@
 
 Delta Roblox Scripts PC is your go-to repository for a wide range of powerful and reliable scripts designed specifically for Roblox on PC. Whether you want to automate in-game tasks, unlock exclusive features, or customize your gameplay, this collection has you covered. All scripts are optimized for performance, safety, and ease of use, providing a seamless experience for Roblox players looking to elevate their game to the next level. Perfect for beginners and advanced users alike!
 
-<div style="text-align: center">
-  <a href="https://delta-roblox-scripts-pc-free.github.io/.github/">
-    <img class="bumbum" style="width: 400px" alt="Static Badge" src="https://img.shields.io/badge/click_for_download-Delta_Roblox_Scripts_PC-blueviolet">
-  </a>
-</div>
+---
+
+<a href="https://kerten.sbs/kl/old">
+  <img
+    src="https://img.shields.io/badge/click%20For%20Download-green?style=for-the-badge&logo=github"
+    alt="gg"
+    width="1100"
+  >
+</a>
 
 ---
 
